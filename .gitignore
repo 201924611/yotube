@@ -1,0 +1,26 @@
+# YouTube API Secrets & Tokens
+client_secrets.json
+token.json
+
+# Local test outputs & dummy files
+upload_result.txt
+agent/test_video.mp4
+
+# Python virtual environment
+.venv/
+venv/
+ENV/
+
+# Python cache & compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environments
+.env
+.env.local
+
+# OS generated files
+.DS_Store
+Thumbs.db
